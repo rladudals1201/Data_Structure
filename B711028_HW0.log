@@ -1,0 +1,375 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.10)  23 SEP 2021 23:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**B711028_HW0.tex
+(./B711028_HW0.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(c:/texlive/2021/texmf-dist/tex/latex/cjk-ko/kotex.sty
+Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
+
+(c:/texlive/2021/texmf-dist/tex/latex/kotex-utf/kotex.cfg)
+(c:/texlive/2021/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
+
+(c:/texlive/2021/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count190
+\dhucs@emph@raise=\dimen139
+)
+Now handling font encoding LUC ...
+... processing UTF-8 mapping file for font encoding LUC
+
+(c:/texlive/2021/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+3001 (decimal 12289)
+   defining Unicode char U+3002 (decimal 12290)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+300A (decimal 12298)
+   defining Unicode char U+300B (decimal 12299)
+   defining Unicode char U+300C (decimal 12300)
+   defining Unicode char U+300D (decimal 12301)
+   defining Unicode char U+300E (decimal 12302)
+   defining Unicode char U+300F (decimal 12303)
+   defining Unicode char U+3010 (decimal 12304)
+   defining Unicode char U+3011 (decimal 12305)
+   defining Unicode char U+3014 (decimal 12308)
+   defining Unicode char U+3015 (decimal 12309)
+   defining Unicode char U+3016 (decimal 12310)
+   defining Unicode char U+3017 (decimal 12311)
+   defining Unicode char U+3018 (decimal 12312)
+   defining Unicode char U+3019 (decimal 12313)
+   defining Unicode char U+301A (decimal 12314)
+   defining Unicode char U+301B (decimal 12315)
+   defining Unicode char U+FF01 (decimal 65281)
+   defining Unicode char U+FF08 (decimal 65288)
+   defining Unicode char U+FF09 (decimal 65289)
+   defining Unicode char U+FF0C (decimal 65292)
+   defining Unicode char U+FF0E (decimal 65294)
+   defining Unicode char U+FF1A (decimal 65306)
+   defining Unicode char U+FF1B (decimal 65307)
+   defining Unicode char U+FF1C (decimal 65308)
+   defining Unicode char U+FF1D (decimal 65309)
+   defining Unicode char U+FF1E (decimal 65310)
+   defining Unicode char U+FF1F (decimal 65311)
+   defining Unicode char U+FF3B (decimal 65339)
+   defining Unicode char U+FF3D (decimal 65341)
+   defining Unicode char U+FF5B (decimal 65371)
+   defining Unicode char U+FF5D (decimal 65373)
+   defining Unicode char U+FF61 (decimal 65377)
+   defining Unicode char U+FF62 (decimal 65378)
+   defining Unicode char U+FF63 (decimal 65379)
+   defining Unicode char U+FF64 (decimal 65380)
+   defining Unicode char U+FF65 (decimal 65381)
+)
+\@josa=\count191
+\josatoks=\toks18
+
+(c:/texlive/2021/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
+)))
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(c:/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen142
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen143
+\subfiglabelskip=\skip52
+\c@subfigure=\count192
+\c@lofdepth=\count193
+\c@subtable=\count194
+\c@lotdepth=\count195
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2021/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen144
+\captionmargin@=\dimen145
+\captionwidth=\dimen146
+\caption@tempdima=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+Package caption Info: subfigure package is loaded.
+)
+(c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks20
+\float@box=\box50
+\@float@everytoks=\toks21
+\@floatcapt=\box51
+)
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box52
+)
+(./B711028_HW0.aux)
+\openout1 = `B711028_HW0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 15.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input li
+ne 15.
+
+(c:/texlive/2021/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
+)
+LaTeX Font Info:    ... okay on input line 15.
+
+(c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen151
+\scratchbox=\box53
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen152
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks23
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+LaTeX Font Info:    Trying to load font information for LUC+uhcmj on input line
+ 25.
+
+(c:/texlive/2021/texmf-dist/tex/latex/kotex-utf/lucuhcmj.fd
+File: lucuhcmj.fd 2013/09/26 UHC Myeongjo font definitions
+)
+<Hongik.png, id=1, 75.28125pt x 75.28125pt>
+File: Hongik.png Graphic file (type png)
+<use Hongik.png>
+Package pdftex.def Info: Hongik.png  used on input line 53.
+(pdftex.def)             Requested size: 75.28105pt x 75.28105pt.
+<apple.png, id=3, 311.1625pt x 163.61125pt>
+File: apple.png Graphic file (type png)
+<use apple.png>
+Package pdftex.def Info: apple.png  used on input line 56.
+(pdftex.def)             Requested size: 103.50105pt x 54.42126pt.
+<iphone.jpg, id=4, 963.6pt x 602.25pt>
+File: iphone.jpg Graphic file (type jpg)
+<use iphone.jpg>
+Package pdftex.def Info: iphone.jpg  used on input line 57.
+(pdftex.def)             Requested size: 103.50105pt x 64.68547pt.
+<gominsi.jpg, id=5, 225.84375pt x 301.125pt>
+File: gominsi.jpg Graphic file (type jpg)
+<use gominsi.jpg>
+Package pdftex.def Info: gominsi.jpg  used on input line 62.
+(pdftex.def)             Requested size: 68.99895pt x 92.0015pt.
+<gominsi2.jpg, id=6, 225.84375pt x 225.84375pt>
+File: gominsi2.jpg Graphic file (type jpg)
+<use gominsi2.jpg>
+Package pdftex.def Info: gominsi2.jpg  used on input line 64.
+(pdftex.def)             Requested size: 68.99895pt x 69.00113pt.
+<gominsi3.jpg, id=7, 421.575pt x 835.12pt>
+File: gominsi3.jpg Graphic file (type jpg)
+<use gominsi3.jpg>
+Package pdftex.def Info: gominsi3.jpg  used on input line 69.
+(pdftex.def)             Requested size: 68.99895pt x 136.68022pt.
+<gominsi4.jpg, id=8, 425.59pt x 542.025pt>
+File: gominsi4.jpg Graphic file (type jpg)
+<use gominsi4.jpg>
+Package pdftex.def Info: gominsi4.jpg  used on input line 70.
+(pdftex.def)             Requested size: 68.99895pt x 87.87538pt.
+ [1
+
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (9.37112pt too high) has occurred while \output is active []
+
+
+[2 <./Hongik.png> <./apple.png> <./iphone.jpg> <./gominsi.jpg> <./gominsi2.jpg>
+ <./gominsi3.jpg> <./gominsi4.jpg>] [3] (./B711028_HW0.aux) ) 
+Here is how much of TeX's memory you used:
+ 3545 strings out of 478599
+ 57267 string characters out of 5858101
+ 357170 words of memory out of 5000000
+ 21331 multiletter control sequences out of 15000+600000
+ 436277 words of font info for 125 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,7n,66p,1331b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/t
+exmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2021/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texliv
+e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2021/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjbae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjbb0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pf
+b><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/
+texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texliv
+e/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2021
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2021/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb><c:/texlive/2021/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2021/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjmad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjmae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanum
+type1/nanummjmb0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjmb1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.p
+fb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:
+/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texli
+ve/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/202
+1/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2021/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2021/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2021/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2021/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmbd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmbe.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmbf.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.
+pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c
+:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texl
+ive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/texlive/20
+21/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive/2021/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2021/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2021/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2021/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjmcd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf
+.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><
+c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/tex
+live/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2
+021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2021/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2021/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2021/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2021/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmd7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx1200.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-sup
+er/sfbx1440.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm080
+0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/
+texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/20
+21/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2021/texmf-d
+ist/fonts/type1/uhc/umj/umj04.pfb>
+Output written on B711028_HW0.pdf (3 pages, 2943056 bytes).
+PDF statistics:
+ 377 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
